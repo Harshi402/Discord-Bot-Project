@@ -1,5 +1,5 @@
 # Discord-Bot-Project
-<p> Idea: I had been using discord for long, and every time I encountered a bot message, I always got curious so I decided to implement a discord bot myself. </p>
+<p> <b>Idea: I had been using discord for long, and every time I encountered a bot message, I always got curious so I decided to implement a discord bot myself.  </b></p>
 <p> The functions of this bot:
   <ol type="1">
     <li>Whenever a new user enters the server, the bot will welcome them displaying the message "Welcome to <ServerName>". </li>
